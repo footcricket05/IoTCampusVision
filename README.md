@@ -1,4 +1,4 @@
-# Smart Campus
+## Smart Campus
 Smart campus is a more comprehensive IoT simulation compared to the smart homes, both network and IoT layout, are in fact more complex in order to show a deeper interaction between the IoT devices. Smart-Campus simulated a university campus where, along with traditional school and apartment networks, an IoT network allowed to connect different IoT devices spread across the campus premises. Examples of RFID access control management and intelligent sport field watering solution were included in the simulation. 
  
 
