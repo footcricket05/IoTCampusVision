@@ -4,9 +4,13 @@ Smart campus is a more comprehensive IoT simulation compared to the smart homes,
 
 ## Network Layout
 The network layout in this exercise is more complex compared to previous lab exercises. This network topology includes 
+
 •	Backbone router network
+
 •	Traditional switch-based classroom wired network
+
 •	Wireless LAN for the apartment buildings
+
 •	Dedicated IoT network based also on switch
 
 
