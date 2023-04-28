@@ -26,4 +26,4 @@ The network layout in this exercise is more complex compared to previous lab exe
 If you have any suggestions or improvements for this simulation, feel free to contribute by creating a pull request or opening an issue.
 
 ## License
-This project is licensed under the MIT License - see the https://github.com/footcricket05/Smart-Campus-Design-CC/blob/main/LICENSE file for details.
+This project is licensed under the MIT License - see the [https://github.com/footcricket05/Smart-Campus-Design-CC/blob/main/LICENSE](./LICENSE) file for details.
