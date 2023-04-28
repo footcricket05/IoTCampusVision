@@ -22,8 +22,26 @@ The network layout in this exercise is more complex compared to previous lab exe
 ![image](https://user-images.githubusercontent.com/93007427/224146128-2bc4b131-751a-448b-b144-86911ed9f8b2.png)
 
 
+## Usage
+To use the Smart Campus simulation in Cisco Packet Tracer, follow these steps:
+
+1. Download and install Cisco Packet Tracer on your computer.
+
+2. Open the smart-campus.pkt file included in the repository in Cisco Packet Tracer.
+
+3. The file will load the Smart Campus network topology and the IoT devices connected to it.
+
+4. You can then simulate different scenarios by configuring the devices and running the simulation.
+
+5. The simulation will output various data and visualizations to help you understand the behavior of the Smart Campus network and its IoT devices.
+
+
+Note: The smart-campus.pkt file was created using Cisco Packet Tracer version 7.3.1. Older or newer versions may have compatibility issues.
+
+
 ## Contributing
 If you have any suggestions or improvements for this simulation, feel free to contribute by creating a pull request or opening an issue.
+
 
 ## License
 This project is licensed under the MIT License - see the [License](https://github.com/footcricket05/Smart-Campus-Design-CC/blob/main/LICENSE) file for details.
