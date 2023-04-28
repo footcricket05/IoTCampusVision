@@ -27,7 +27,7 @@ To use the Smart Campus simulation in Cisco Packet Tracer, follow these steps:
 
 1. Download and install Cisco Packet Tracer on your computer.
 
-2. Open the smart-campus.pkt file included in the repository in Cisco Packet Tracer.
+2. Open the Smart-Campus-Design.pkt file included in the repository in Cisco Packet Tracer.
 
 3. The file will load the Smart Campus network topology and the IoT devices connected to it.
 
@@ -36,7 +36,7 @@ To use the Smart Campus simulation in Cisco Packet Tracer, follow these steps:
 5. The simulation will output various data and visualizations to help you understand the behavior of the Smart Campus network and its IoT devices.
 
 
-Note: The smart-campus.pkt file was created using Cisco Packet Tracer version 7.3.1. Older or newer versions may have compatibility issues.
+Note: The Smart-Campus-Design.pkt file was created using Cisco Packet Tracer version 7.3.1. Older or newer versions may have compatibility issues.
 
 
 ## Contributing
