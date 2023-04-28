@@ -20,3 +20,10 @@ The network layout in this exercise is more complex compared to previous lab exe
 
 ## After Simulation
 ![image](https://user-images.githubusercontent.com/93007427/224146128-2bc4b131-751a-448b-b144-86911ed9f8b2.png)
+
+
+## Contributing
+If you have any suggestions or improvements for this simulation, feel free to contribute by creating a pull request or opening an issue.
+
+## License
+This project is licensed under the MIT License - see the https://github.com/footcricket05/Smart-Campus-Design-CC/blob/main/LICENSE file for details.
