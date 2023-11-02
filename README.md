@@ -31,7 +31,7 @@ To use the Smart Campus simulation in Cisco Packet Tracer, follow these steps:
 
 5. The simulation provides various data and visualizations to help you understand the behavior of the Smart Campus network and its IoT devices.
 
-**Note:** The `Smart Campus Design.pkt` file was created using Cisco Packet Tracer version 8.1.1. Compatibility with older or newer versions may vary.
+**Note:** The `Smart Campus Design.pkt` file was created using Cisco Packet Tracer version 8.1.0. Compatibility with older or newer versions may vary.
 
 ## Contributing
 
