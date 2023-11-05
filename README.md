@@ -33,6 +33,13 @@ To use the Smart Campus simulation in Cisco Packet Tracer, follow these steps:
 
 **Note:** The `Smart Campus Design.pkt` file was created using Cisco Packet Tracer version 8.1.0. Compatibility with older or newer versions may vary.
 
+## Accessing IoT Devices 📱💻
+
+To monitor and run the simulation for IoT devices within: Cisco Packet Tracer -> IoT Server -> IoT Monitor, please use the following credentials:
+
+- **Username**: shaurya
+- **Password**: shaurya
+
 ## Contributing 🤝
 
 If you have suggestions or improvements for this simulation, feel free to contribute by creating a pull request or opening an issue.
